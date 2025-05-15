@@ -1,0 +1,20 @@
+
+=============================================
+              STUDENT MARKSHEET              
+=============================================
+Name: arifursajid
+Roll Number: 990
+Class: 10
+Section: A
+
+SUBJECTS		MARKS OBTAINED
+Math           	80
+Science        	70
+English        	60
+History        	70
+Computer       	80
+
+TOTAL MARKS: 360
+PERCENTAGE: 72.00%
+=============================================
+    

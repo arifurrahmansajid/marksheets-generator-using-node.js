@@ -1,0 +1,22 @@
+
+=============================================
+              STUDENT MARKSHEET              
+=============================================
+Name: q
+Roll Number: 2
+Class: A
+Section: a
+
+SUBJECT		MARKS	GRADE	CREDIT HOURS
+Math           	80	A+	4
+Science        	80	A+	4
+English        	80	A+	3
+History        	80	A+	3
+Computer       	80	A+	3
+
+TOTAL MARKS: 400 / 500
+PERCENTAGE: 80.00%
+GPA: 5.00
+STATUS: [32mPASS[39m
+=============================================
+Generated on: 5/15/2025, 12:27:40 PM
