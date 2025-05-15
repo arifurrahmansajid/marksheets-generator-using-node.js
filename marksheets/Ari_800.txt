@@ -1,0 +1,22 @@
+
+=============================================
+              STUDENT MARKSHEET              
+=============================================
+Name: Ari
+Roll Number: 800
+Class: 10
+Section: A
+
+SUBJECT		MARKS	GRADE	CREDIT HOURS
+Math           	80	B-	4
+Science        	80	B-	4
+English        	80	B-	3
+History        	80	B-	3
+Computer       	80	B-	3
+
+TOTAL MARKS: 400 / 500
+PERCENTAGE: 80.00%
+GPA: 2.70
+STATUS: [32mPASS[39m
+=============================================
+Generated on: 5/15/2025, 12:24:49 PM
